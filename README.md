@@ -7,17 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔥 Passionate Software Developer focused on backend development  
-- 💡 Interested in **System Design (LLD + HLD)** and scalable applications  
-- 📚 Learning and sharing knowledge about **DSA & Core CS concepts**  
-- 🤝 Open to collaborating on **Open Source Projects**  
-- 🎯 Exploring **Generative AI** and future technologies  
-
----
-
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -56,6 +46,16 @@
 
 ### 🤖 Emerging
 ![GenAI](https://img.shields.io/badge/Generative%20AI-FB8C00?style=for-the-badge)
+
+---
+
+## 👨‍💻 About Me
+
+- 🔥 Passionate Software Developer focused on backend development  
+- 💡 Interested in **System Design (LLD + HLD)** and scalable applications  
+- 📚 Learning and sharing knowledge about **DSA & Core CS concepts**  
+- 🤝 Open to collaborating on **Open Source Projects**  
+- 🎯 Exploring **Generative AI** and future technologies  
 
 ---
 
@@ -105,7 +105,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 
 ---
 

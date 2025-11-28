@@ -9,6 +9,8 @@
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,10 +28,10 @@
 ![DSA](https://img.shields.io/badge/Data%20Structures-0A192F?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge)
 ![Operating Systems](https://img.shields.io/badge/Linux%20OS-2E7D32?style=for-the-badge&logo=linux&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-424242?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-424242?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GenAI](https://img.shields.io/badge/Generative%20AI-FB8C00?style=for-the-badge&logo=openai&logoColor=white)
 

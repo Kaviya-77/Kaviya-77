@@ -29,7 +29,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge)
 ![GenAI](https://img.shields.io/badge/Gen%20AI-FB8C00?style=for-the-badge)
 
 ---

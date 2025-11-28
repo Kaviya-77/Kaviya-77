@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Developer;System+Design+Enthusiast;DSA+Learner;Open+Source+Contributor;Gen+AI+Explorer" />
 </p>
 ---
+
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

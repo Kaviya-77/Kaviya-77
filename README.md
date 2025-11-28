@@ -9,46 +9,32 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages  |  ⚙ Backend & Frameworks  |  🗄 Databases
+## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-&nbsp;&nbsp;|&nbsp;&nbsp;
-
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
-
-&nbsp;&nbsp;|&nbsp;&nbsp;
-
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-
-### 🌐 Web
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### 🧠 CS Core
+![OOPS](https://img.shields.io/badge/OOPS-6A1B9A?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-0A192F?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge)
-![OOPS](https://img.shields.io/badge/OOPS-6A1B9A?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating%20System-2E7D32?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/OS-2E7D32?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-424242?style=for-the-badge)
-
-### ☁ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge)
-
-### 🤖 Emerging
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![GenAI](https://img.shields.io/badge/Generative%20AI-FB8C00?style=for-the-badge)
 
 ---

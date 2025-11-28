@@ -82,12 +82,13 @@
 
 <p align="center">
   <a href="https://github.com/Kaviya-77">
-    <img src="https://img.shields.io/badge/GitHub-Kaviya--77-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kaviya-k-786b6924b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaviya%20K-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 ---
 

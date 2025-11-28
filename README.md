@@ -9,22 +9,25 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages  |  ⚙ Backend & Frameworks
+### 💻 Languages  |  ⚙ Backend & Frameworks  |  🗄 Databases
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
 
+&nbsp;&nbsp;|&nbsp;&nbsp;
 
-### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
 
 ### 🌐 Web
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)

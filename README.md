@@ -25,7 +25,7 @@
 ![OOPS](https://img.shields.io/badge/OOPS-6A1B9A?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/Data%20Structures-0A192F?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Linux%20OS-2E7D32?style=for-the-badge&logo=linux&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20System-2E7D32?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-424242?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)

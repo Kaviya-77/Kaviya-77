@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Engineer;System+Design+Enthusiast;DSA+Learner;Open+Source+Contributor;Gen+AI+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Developer;System+Design+Enthusiast;DSA+Learner;Open+Source+Contributor;Gen+AI+Explorer" />
 </p>
 
 ---

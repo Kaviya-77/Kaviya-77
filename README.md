@@ -4,11 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Engineer;System+Design+Enthusiast;DSA+Learner;Open+Source+Contributor;Gen+AI+Explorer" />
 </p>
-
----
-
-## 🛠️ Tech Stack
-
+--
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,8 +30,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![GenAI](https://img.shields.io/badge/Generative%20AI-FB8C00?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/Gen%20AI-FB8C00?style=for-the-badge)
 
 ---
 

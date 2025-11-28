@@ -28,7 +28,6 @@
 ### ⚙ Backend & Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
 
@@ -53,7 +52,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge)
 
 ### 🤖 Emerging
@@ -78,6 +76,25 @@
 
 ---
 
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/kaviya777/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/userka123">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/4a4589c8-62ee-44c4-a83f13533c4f687d">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-F36F21?style=for-the-badge" />
+  </a>
+  <a href="https://www.hackerrank.com/jeevakaviya3112?hr_r=1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -89,14 +106,6 @@
   </a>
 </p>
 
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaviya-77&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
 
 ---
 

@@ -1,16 +1,102 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kaviya K</h1>
+<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | Problem Solver</h3>
 
-<!--
-**Kaviya-77/Kaviya-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Engineer;System+Design+Enthusiast;DSA+Learner;Open+Source+Contributor;Gen+AI+Explorer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔥 Passionate Software Developer focused on backend development  
+- 💡 Interested in **System Design (LLD + HLD)** and scalable applications  
+- 📚 Learning and sharing knowledge about **DSA & Core CS concepts**  
+- 🤝 Open to collaborating on **Open Source Projects**  
+- 🎯 Exploring **Generative AI** and future technologies  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### ⚙ Backend & Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🧠 CS Core
+![DSA](https://img.shields.io/badge/DSA-0A192F?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge)
+![OOPS](https://img.shields.io/badge/OOPS-6A1B9A?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20System-2E7D32?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-424242?style=for-the-badge)
+
+### ☁ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge)
+
+### 🤖 Emerging
+![GenAI](https://img.shields.io/badge/Generative%20AI-FB8C00?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaviya-77&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviya-77&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviya-77&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Kaviya-77">
+    <img src="https://img.shields.io/badge/GitHub-Kaviya--77-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaviya-k-786b6924b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaviya%20K-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kaviya-77&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
+
+---
+
+✨ _“Code. Learn. Build. Repeat.”_

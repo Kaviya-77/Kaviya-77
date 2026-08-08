@@ -1,45 +1,78 @@
-# 👋 Hi, I'm Kaviya
+# 👋 Hi, I'm Kaviya K
 
-### Embedded Software | C/C++ | Embedded C | Classic AUTOSAR | Linux
+### Embedded Software | C/C++ | JAVA | Linux | Classic AUTOSAR | Embedded C | Data structures & Algorithms
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔧 **BSW Tool Developer @ TCS**, working on a General Motors AUTOSAR BSW Configuration Tool
-- 💻 Strong foundation in **C, C++, and Embedded C**
-- ⚙️ Experience with **AUTOSAR Classic Platform, BSW Architecture, ECU Configuration, and ARXML**
-- 🔄 Worked on **automated Embedded C code generation** for automotive ECU software
-- 🚗 Experience with **CAN and LIN communication stack configuration**
-- 🐧 Exploring **Linux, Operating Systems, and system-level programming**
-- 🔌 Interested in **Embedded Systems, Firmware, and low-level software development**
+- 🔧 Working on **AUTOSAR BSW Configuration Tools**
+- 💻 Programming in **C, C++, and Embedded C**
+- ⚙️ Hands-on experience with **AUTOSAR Classic Platform & BSW**
+- 🔄 Working with **ARXML parsing, ECU Configuration & Code Generation**
+- 🚗 Experience with **CAN, LIN, UDS and embedded communication protocols**
+- 🐧 Exploring **Linux, Operating Systems & System Programming**
+- 🔌 Interested in **Embedded Systems & Firmware Development**
 - 🧠 Solved **880+ DSA problems** across LeetCode and GeeksforGeeks
-- 📚 Continuously learning and building projects in **Embedded Systems and Computer Science**
+- 📚 Continuously learning and building projects in **Embedded Systems & Computer Science**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming
-`C` `C++` `Embedded C` `Python` `Java` `C#`
+### 💻 Programming Languages
 
-### ⚙️ Embedded & Automotive
-`Embedded Systems` `8051` `Timers` `Interrupts` `AUTOSAR Classic Platform` `BSW Architecture` `ECU Configuration` `ARXML` `Code Generation`
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-### 🚘 AUTOSAR Communication Stack
-`COM` `PduR` `CanIf` `CAN` `LIN` `UDS`
+### ⚙️ Embedded & AUTOSAR
 
-### 🔌 Embedded Communication Protocols
-`I2C` `SPI` `UART` `USB`
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AUTOSAR%20Classic-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BSW-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ECU%20Configuration-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ARXML-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code%20Generation-333333?style=for-the-badge"/>
+</p>
+
+### 🚗 Communication Protocols
+
+<p>
+  <img src="https://img.shields.io/badge/CAN-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LIN-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UDS-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/I2C-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SPI-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UART-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/USB-333333?style=for-the-badge"/>
+</p>
 
 ### 🐧 Systems & Computer Science
-`Linux` `Shell Scripting` `Operating Systems` `Computer Networks` `Computer Organization & Architecture` `Data Structures & Algorithms` `Object-Oriented Programming`
 
-### 🔧 Development & DevOps
-`Git` `GitHub` `Jenkins` `Azure DevOps` `CI/CD`
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Shell%20Scripting-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Architecture-333333?style=for-the-badge"/>
+</p>
 
-### 📐 Other
-`MATLAB` `ADAS` `Automotive Electronics` `Vehicle Communication Networks`
+### 🔧 Development & CI/CD
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-333333?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -47,9 +80,9 @@
 
 ### 🤖 Voice & Bluetooth Controlled Obstacle Avoidance Robot
 
-An embedded robotic vehicle combining voice control, Bluetooth communication, and obstacle avoidance.
+An embedded robotic vehicle combining **voice control, Bluetooth communication, and obstacle avoidance**.
 
-**Technologies & Hardware:**
+**Technologies & Hardware**
 
 `Embedded C` `Arduino UNO` `HC-05` `Ultrasonic Sensor` `Servo Motor` `L293D Motor Driver`
 
@@ -57,9 +90,9 @@ An embedded robotic vehicle combining voice control, Bluetooth communication, an
 
 ### 🐟 Poseidon's Automated Fish Tank
 
-An automated embedded system designed for fish feeding, cleaning, monitoring, and remote notifications.
+An automated embedded system designed for **feeding, cleaning, monitoring, and remote notification**.
 
-**Technologies & Hardware:**
+**Technologies & Hardware**
 
 `Embedded C` `Arduino UNO` `ESP32-CAM` `RTC` `Ultrasonic Sensor` `Servo Motors` `Relay Module`
 
@@ -67,50 +100,38 @@ An automated embedded system designed for fish feeding, cleaning, monitoring, an
 
 ## 📄 Publication
 
-### Chaotic Audio Encryption and Decryption Using Logistic Map
+### 🔐 Chaotic Audio Encryption and Decryption Using Logistic Map
 
 **IEEE I2CACIS 2024**
 
-Research work focused on secure audio communication using chaotic encryption techniques.
+Published research on chaotic audio encryption for secure audio communication.
 
-**Technologies:**
+**Technologies**
 
 `MATLAB` `SHA-256` `Logistic Maps` `DWT` `IDWT` `Cryptography`
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠 Problem Solving
 
-- 🔥 **880+ problems solved** across LeetCode and GeeksforGeeks
-- 🏆 Specialist Badges in:
+I enjoy solving programming problems and strengthening my **DSA and Computer Science fundamentals**.
+
+- 🔥 **880+ problems solved**
+- 🟢 **LeetCode:** 580+ problems
+- 🔵 **GeeksforGeeks:** 300+ problems
+- 🏆 **Coding Ninjas Specialist Badges**
   - Dynamic Programming
   - Recursion
   - Arrays
-- 💡 Strong foundation in **Data Structures & Algorithms**
-- 📚 Interested in **problem solving, system programming, and computer science fundamentals**
-
----
-## 💻 Coding Profiles
-
-- 🟢 **LeetCode:** [580+ Problems](https://leetcode.com/u/kaviya777/)
-- 🔵 **GeeksforGeeks:** [300+ Problems](https://www.geeksforgeeks.org/profile/userka123?tab=activity)
-- 🟣 **Coding Ninjas:** [Specialist Badges – DP, Recursion & Arrays](https://www.naukri.com/code360/profile/4a4589c8-62ee-44c4-a83f-13533c4f687d)
-
 ---
 
-## 🤝 Connect With Me
+## 🏆 Achievements
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaviya-k-786b6924b/)
-
----
-
-### ✨ Code. Learn. Build. Debug. Repeat.
-
-## 🏆 Awards & Achievements
-
-- 🥇 **Kamarajar Award – Government of Tamil Nadu (2019)** for academic excellence and extracurricular achievements
-- 🥇 **District First** in both Class X and XII
-- 🎓 **National Means-cum-Merit Scholarship (NMMS)** recipient
+- 🥇 **Kamarajar Award — Government of Tamil Nadu (2019)**
+- 🎓 **National Means-cum-Merit Scholarship (NMMS)**
 
 ---
-
+     ↓
+Linux & System Programming
+     ↓
+Low-Level Software

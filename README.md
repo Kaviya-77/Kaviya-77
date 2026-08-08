@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaviya K
+# 👋 Hello, I'm Kaviya
 
 ### Embedded Software | C/C++ | JAVA | Linux | Classic AUTOSAR | Embedded C | Data structures & Algorithms
 

@@ -3,7 +3,6 @@
 ### Embedded Software | C/C++ | JAVA | Linux | Classic AUTOSAR | Embedded C | Data structures & Algorithms
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -11,43 +10,49 @@
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-2C3E50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
 ### ⚙️ Embedded & AUTOSAR
 
 <p>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AUTOSAR%20Classic-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BSW-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ECU%20Configuration-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ARXML-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Code%20Generation-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/8051-00695C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AUTOSAR%20Classic-F57C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BSW-E65100?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ECU%20Configuration-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ARXML-6D4C41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code%20Generation-8D6E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/COM-546E7A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PduR-546E7A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CanIf-546E7A?style=for-the-badge"/>
 </p>
 
 ### 🚗 Communication Protocols
 
 <p>
-  <img src="https://img.shields.io/badge/CAN-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LIN-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UDS-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/I2C-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SPI-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UART-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/USB-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CAN-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LIN-1976D2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UDS-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/I2C-3949AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SPI-5E35B1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UART-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/USB-283593?style=for-the-badge"/>
 </p>
 
 ### 🐧 Systems & Computer Science
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Shell%20Scripting-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Architecture-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shell%20Scripting-37474F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-455A64?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-283593?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-3949AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-4527A0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Architecture-512DA8?style=for-the-badge"/>
 </p>
 
 ### 🔧 Development & CI/CD
@@ -57,7 +62,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-00897B?style=for-the-badge"/>
 </p>
 
 ---

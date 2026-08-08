@@ -136,7 +136,3 @@ I enjoy solving programming problems and strengthening my **DSA and Computer Sci
 - 🎓 **National Means-cum-Merit Scholarship (NMMS)**
 
 ---
-     ↓
-Linux & System Programming
-     ↓
-Low-Level Software

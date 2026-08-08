@@ -19,7 +19,7 @@
 ### ⚙️ Embedded & AUTOSAR
 
 <p>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-B2DFDB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/8051-00695C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AUTOSAR%20Classic-F57C00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BSW-E65100?style=for-the-badge"/>

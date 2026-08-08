@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/AUTOSAR%20Classic-F57C00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BSW-E65100?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ECU%20Configuration-795548?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ARXML-6D4C41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ARXML-81C784?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Code%20Generation-8D6E63?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/COM-546E7A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PduR-546E7A?style=for-the-badge"/>

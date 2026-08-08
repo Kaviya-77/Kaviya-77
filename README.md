@@ -31,18 +31,6 @@
   <img src="https://img.shields.io/badge/CanIf-546E7A?style=for-the-badge"/>
 </p>
 
-### 🚗 Communication Protocols
-
-<p>
-  <img src="https://img.shields.io/badge/CAN-1565C0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LIN-1976D2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UDS-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/I2C-3949AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SPI-5E35B1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UART-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/USB-283593?style=for-the-badge"/>
-</p>
-
 ### 🐧 Systems & Computer Science
 
 <p>
@@ -53,6 +41,18 @@
   <img src="https://img.shields.io/badge/OOP-3949AB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer%20Networks-4527A0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer%20Architecture-512DA8?style=for-the-badge"/>
+</p>
+
+### 🚗 Communication Protocols
+
+<p>
+  <img src="https://img.shields.io/badge/CAN-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LIN-1976D2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UDS-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/I2C-3949AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SPI-5E35B1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UART-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/USB-283593?style=for-the-badge"/>
 </p>
 
 ### 🔧 Development & CI/CD

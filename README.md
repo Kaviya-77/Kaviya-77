@@ -1,94 +1,139 @@
-<h1 align="center">Hi 👋, I'm Kaviya </h1>
-<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | Problem Solver</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Developer;System+Design+Enthusiast;DSA+Learner;Open+Source+Contributor;Gen+AI+Explorer" />
-</p>
+# 👋 Hi, I'm Kaviya K
+
+### Embedded Software | C/C++ | Embedded C | Classic AUTOSAR | Linux
+
+I'm an **Embedded Software enthusiast and BSW Tool Developer** with a background in Electronics and Communication Engineering. I currently work on **AUTOSAR BSW configuration tooling** for automotive ECU software, with hands-on experience in ECU configuration, ARXML parsing, code generation, communication stack configuration, and CI/CD validation.
+
+I'm passionate about **low-level programming, embedded systems, C/C++, Linux, and system-level software development**, and I'm continuously building my knowledge in embedded technologies.
 
 ---
 
-## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OOPS](https://img.shields.io/badge/OOPS-6A1B9A?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data%20Structures-0A192F?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating%20System-2E7D32?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-424242?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-FB8C00?style=for-the-badge&logo=openai&logoColor=white)
+## 👩‍💻 About Me
+
+- 🔧 **BSW Tool Developer @ TCS**, working on a General Motors AUTOSAR BSW Configuration Tool
+- 💻 Strong foundation in **C, C++, and Embedded C**
+- ⚙️ Experience with **AUTOSAR Classic Platform, BSW Architecture, ECU Configuration, and ARXML**
+- 🔄 Worked on **automated Embedded C code generation** for automotive ECU software
+- 🚗 Experience with **CAN and LIN communication stack configuration**
+- 🐧 Exploring **Linux, Operating Systems, and system-level programming**
+- 🔌 Interested in **Embedded Systems, Firmware, and low-level software development**
+- 🧠 Solved **880+ DSA problems** across LeetCode and GeeksforGeeks
+- 📚 Continuously learning and building projects in **Embedded Systems and Computer Science**
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Technical Skills
 
-- 🔥 Passionate Software Developer focused on backend development  
-- 💡 Interested in **System Design (LLD + HLD)** and scalable applications  
-- 📚 Learning and sharing knowledge about **DSA & Core CS concepts**  
-- 🤝 Open to collaborating on **Open Source Projects**  
-- 🎯 Exploring **Generative AI** and future technologies  
+### 💻 Programming
+`C` `C++` `Embedded C` `Python` `Java` `C#`
 
----
+### ⚙️ Embedded & Automotive
+`Embedded Systems` `8051` `Timers` `Interrupts` `AUTOSAR Classic Platform` `BSW Architecture` `ECU Configuration` `ARXML` `Code Generation`
 
-## 📊 GitHub Stats
+### 🚘 AUTOSAR Communication Stack
+`COM` `PduR` `CanIf` `CAN` `LIN` `UDS`
 
-<p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=Kaviya-77&show_icons=true&theme=tokyonight" height="165"/>-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviya-77&layout=compact&theme=tokyonight" height="165"/>
-</p>
+### 🔌 Embedded Communication Protocols
+`I2C` `SPI` `UART` `USB`
 
----
+### 🐧 Systems & Computer Science
+`Linux` `Shell Scripting` `Operating Systems` `Computer Networks` `Computer Organization & Architecture` `Data Structures & Algorithms` `Object-Oriented Programming`
 
-## 🔥 Contribution Streak
+### 🔧 Development & DevOps
+`Git` `GitHub` `Jenkins` `Azure DevOps` `CI/CD`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviya-77&theme=tokyonight" />
-</p>
+### 📐 Other
+`MATLAB` `ADAS` `Automotive Electronics` `Vehicle Communication Networks`
 
 ---
 
-## 💻 Coding Profiles
+## 💼 Professional Experience
 
-<p align="center">
-  <a href="https://leetcode.com/kaviya777/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/userka123">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/4a4589c8-62ee-44c4-a83f13533c4f687d">
-    <img src="https://img.shields.io/badge/Coding%20Ninjas-F36F21?style=for-the-badge" />
-  </a>
-  <a href="https://www.hackerrank.com/jeevakaviya3112?hr_r=1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
+### Tata Consultancy Services — BSW Tool Developer
+**General Motors | BCT – BSW Configuration Tool**  
+📍 Bangalore | 📅 Jan 2025 – Present
+
+- Developing and enhancing an **AUTOSAR BSW Configuration Tool** through feature implementation, defect resolution, product improvements, testing, and validation.
+- Working with **ARXML parsing, ECU configuration, and code generation workflows**.
+- Contributing to automated generation of **AUTOSAR-compliant Embedded C (.c) and header (.h) files** integrated into production ECU software.
+- Working with the **AUTOSAR Classic Platform and BSW architecture**.
+- Contributing to **Communication Stack configuration** for CAN and LIN protocols, including modules such as COM, PduR, and CanIf.
+- Performing **CI/CD build validation using Jenkins**, including regression testing, automated build verification, and release readiness activities.
+- Following Agile development practices and end-to-end SDLC processes.
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Embedded Projects
 
-<p align="center">
-  <a href="https://github.com/Kaviya-77">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kaviya-k-786b6924b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### 🤖 Voice & Bluetooth Controlled Obstacle Avoidance Robot
+
+An embedded robotic vehicle combining voice control, Bluetooth communication, and obstacle avoidance.
+
+**Technologies & Hardware:**
+
+`Embedded C` `Arduino UNO` `HC-05` `Ultrasonic Sensor` `Servo Motor` `L293D Motor Driver`
 
 ---
 
-✨ _“Code. Learn. Build. Repeat.”_
+### 🐟 Poseidon's Automated Fish Tank
+
+An automated embedded system designed for fish feeding, cleaning, monitoring, and remote notifications.
+
+**Technologies & Hardware:**
+
+`Embedded C` `Arduino UNO` `ESP32-CAM` `RTC` `Ultrasonic Sensor` `Servo Motors` `Relay Module`
+
+---
+
+## 📄 Publication
+
+### Chaotic Audio Encryption and Decryption Using Logistic Map
+
+**IEEE I2CACIS 2024**
+
+Research work focused on secure audio communication using chaotic encryption techniques.
+
+**Technologies:**
+
+`MATLAB` `SHA-256` `Logistic Maps` `DWT` `IDWT` `Cryptography`
+
+---
+
+## 🧠 Competitive Programming
+
+- 🔥 **880+ problems solved** across LeetCode and GeeksforGeeks
+- 🏆 Specialist Badges in:
+  - Dynamic Programming
+  - Recursion
+  - Arrays
+- 💡 Strong foundation in **Data Structures & Algorithms**
+- 📚 Interested in **problem solving, system programming, and computer science fundamentals**
+
+---
+
+## 🏆 Awards & Achievements
+
+- 🥇 **Kamarajar Award – Government of Tamil Nadu (2019)** for academic excellence and extracurricular achievements
+- 🥇 **District First** in both Class X and XII among Government Schools
+- 🎓 **National Means-cum-Merit Scholarship (NMMS)** recipient
+- 🎓 **B.Tech – Electronics and Communication Engineering**, Vellore Institute of Technology
+- 📊 **CGPA: 8.69 / 10**
+
+---
+
+## 🎯 Areas of Interest
+
+```text
+Embedded Systems
+       ↓
+C / C++
+       ↓
+Embedded C & Firmware
+       ↓
+AUTOSAR / BSW
+       ↓
+ECU Configuration & Code Generation
+       ↓
+Communication Protocols
+       ↓
+Linux & System Programming

@@ -110,30 +110,30 @@ Research work focused on secure audio communication using chaotic encryption tec
 - 📚 Interested in **problem solving, system programming, and computer science fundamentals**
 
 ---
+## 💻 Coding Profiles
+
+- 🟢 **LeetCode:** [580+ Problems](https://leetcode.com/u/kaviya777/)
+- 🔵 **GeeksforGeeks:** [300+ Problems](https://www.geeksforgeeks.org/profile/userka123?tab=activity)
+- 🟣 **Coding Ninjas:** [Specialist Badges – DP, Recursion & Arrays](https://www.naukri.com/code360/profile/4a4589c8-62ee-44c4-a83f-13533c4f687d)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaviya-k-786b6924b/)
+- 🟢 [LeetCode](https://leetcode.com/u/kaviya777/)
+- 🔵 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/userka123?tab=activity)
+- 🟣 [Coding Ninjas](https://www.naukri.com/code360/profile/4a4589c8-62ee-44c4-a83f-13533c4f687d)
+
+---
+
+### ✨ Code. Learn. Build. Debug. Repeat.
 
 ## 🏆 Awards & Achievements
 
 - 🥇 **Kamarajar Award – Government of Tamil Nadu (2019)** for academic excellence and extracurricular achievements
-- 🥇 **District First** in both Class X and XII among Government Schools
+- 🥇 **District First** in both Class X and XII
 - 🎓 **National Means-cum-Merit Scholarship (NMMS)** recipient
-- 🎓 **B.Tech – Electronics and Communication Engineering**, Vellore Institute of Technology
-- 📊 **CGPA: 8.69 / 10**
 
 ---
 
-## 🎯 Areas of Interest
-
-```text
-Embedded Systems
-       ↓
-C / C++
-       ↓
-Embedded C & Firmware
-       ↓
-AUTOSAR / BSW
-       ↓
-ECU Configuration & Code Generation
-       ↓
-Communication Protocols
-       ↓
-Linux & System Programming

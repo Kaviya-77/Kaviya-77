@@ -121,9 +121,6 @@ Research work focused on secure audio communication using chaotic encryption tec
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaviya-k-786b6924b/)
-- 🟢 [LeetCode](https://leetcode.com/u/kaviya777/)
-- 🔵 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/userka123?tab=activity)
-- 🟣 [Coding Ninjas](https://www.naukri.com/code360/profile/4a4589c8-62ee-44c4-a83f-13533c4f687d)
 
 ---
 

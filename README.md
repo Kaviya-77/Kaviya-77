@@ -4,20 +4,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
-- 🔧 Working on **AUTOSAR BSW Configuration Tools**
-- 💻 Programming in **C, C++, and Embedded C**
-- ⚙️ Hands-on experience with **AUTOSAR Classic Platform & BSW**
-- 🔄 Working with **ARXML parsing, ECU Configuration & Code Generation**
-- 🚗 Experience with **CAN, LIN, UDS and embedded communication protocols**
-- 🐧 Exploring **Linux, Operating Systems & System Programming**
-- 🔌 Interested in **Embedded Systems & Firmware Development**
-- 🧠 Solved **880+ DSA problems** across LeetCode and GeeksforGeeks
-- 📚 Continuously learning and building projects in **Embedded Systems & Computer Science**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -73,6 +59,20 @@
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-333333?style=for-the-badge"/>
 </p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🔧 Working on **AUTOSAR BSW Configuration Tools**
+- 💻 Programming in **C, C++, and Embedded C**
+- ⚙️ Hands-on experience with **AUTOSAR Classic Platform & BSW**
+- 🔄 Working with **ARXML parsing, ECU Configuration & Code Generation**
+- 🚗 Experience with **CAN, LIN, UDS and embedded communication protocols**
+- 🐧 Exploring **Linux, Operating Systems & System Programming**
+- 🔌 Interested in **Embedded Systems & Firmware Development**
+- 🧠 Solved **880+ DSA problems** across LeetCode and GeeksforGeeks
+- 📚 Continuously learning and building projects in **Embedded Systems & Computer Science**
 
 ---
 

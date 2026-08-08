@@ -2,10 +2,6 @@
 
 ### Embedded Software | C/C++ | Embedded C | Classic AUTOSAR | Linux
 
-I'm an **Embedded Software enthusiast and BSW Tool Developer** with a background in Electronics and Communication Engineering. I currently work on **AUTOSAR BSW configuration tooling** for automotive ECU software, with hands-on experience in ECU configuration, ARXML parsing, code generation, communication stack configuration, and CI/CD validation.
-
-I'm passionate about **low-level programming, embedded systems, C/C++, Linux, and system-level software development**, and I'm continuously building my knowledge in embedded technologies.
-
 ---
 
 ## 👩‍💻 About Me
@@ -44,22 +40,6 @@ I'm passionate about **low-level programming, embedded systems, C/C++, Linux, an
 
 ### 📐 Other
 `MATLAB` `ADAS` `Automotive Electronics` `Vehicle Communication Networks`
-
----
-
-## 💼 Professional Experience
-
-### Tata Consultancy Services — BSW Tool Developer
-**General Motors | BCT – BSW Configuration Tool**  
-📍 Bangalore | 📅 Jan 2025 – Present
-
-- Developing and enhancing an **AUTOSAR BSW Configuration Tool** through feature implementation, defect resolution, product improvements, testing, and validation.
-- Working with **ARXML parsing, ECU configuration, and code generation workflows**.
-- Contributing to automated generation of **AUTOSAR-compliant Embedded C (.c) and header (.h) files** integrated into production ECU software.
-- Working with the **AUTOSAR Classic Platform and BSW architecture**.
-- Contributing to **Communication Stack configuration** for CAN and LIN protocols, including modules such as COM, PduR, and CanIf.
-- Performing **CI/CD build validation using Jenkins**, including regression testing, automated build verification, and release readiness activities.
-- Following Agile development practices and end-to-end SDLC processes.
 
 ---
 
